@@ -1,4 +1,4 @@
-### Blockchain-based social media
+## Blockchain-based social media
 
 An image-sharing social media site, powered by Ethereum blockchain and InterPlanetary File System (IPFS).
 1. It allows the users to get rewarded for creating great content and to upload their pictures in a decentralized way. 
