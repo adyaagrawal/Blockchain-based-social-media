@@ -2,7 +2,7 @@
   "name": "name...",
   "version": "0.1.0",
   "description": "description...",
-  "author": "gregory@dappuniversity.com",
+  "author": "adyaagrawal04@gmail.com",
   "dependencies": {
     "babel-polyfill": "6.26.0",
     "babel-preset-env": "1.7.0",
@@ -11,11 +11,12 @@
     "babel-preset-stage-3": "6.24.1",
     "babel-register": "6.26.0",
     "bootstrap": "4.3.1",
+    "buffer": "^6.0.3",
     "chai": "4.2.0",
     "chai-as-promised": "7.1.1",
     "chai-bignumber": "3.0.0",
     "identicon.js": "^2.3.3",
-    "ipfs-http-client": "^33.1.1",
+    "ipfs-http-client": "^50.1.2",
     "react": "16.8.4",
     "react-bootstrap": "1.0.0-beta.5",
     "react-dom": "16.8.4",
@@ -23,7 +24,7 @@
     "truffle": "5.0.5",
     "web3": "1.0.0-beta.55"
   },
-  "homepage": "http://dappuniversity.github.io/decentragram",
+  "homepage": "http://www.google.com",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

@@ -1,5 +1,5 @@
-const Decentragram = artifacts.require("Decentragram");
+const smBlockchain = artifacts.require("Decentragram");
 
 module.exports = function(deployer) {
-  deployer.deploy(Decentragram);
+  deployer.deploy(smBlockchain);
 };
